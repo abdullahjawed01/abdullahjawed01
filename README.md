@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Abdullah jawed</h1>
 <h3 align="center">A passionate full stack developer intern from India</h3>
@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahjawed01&show_icons=true&locale=en" alt="abdullahjawed01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahjawed01&" alt="abdullahjawed01" /></p>
+
