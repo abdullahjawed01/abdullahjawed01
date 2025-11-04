@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahjawed01&show_icons=true&locale=en&layout=compact" alt="abdullahjawed01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahjawed01&show_icons=true&locale=en" alt="abdullahjawed01" /></p>
+
 
 
