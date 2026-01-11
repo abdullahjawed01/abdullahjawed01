@@ -33,14 +33,14 @@
   <tr>
     <td width="40%" align="center" style="padding: 20px; vertical-align: top;">
       <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoheb17&layout=compact&theme=tokyonight&hide_border=true" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjawed01&layout=compact&theme=tokyonight&hide_border=true" 
           alt="Top Languages"
           style="width: 100%; max-width: 380px; border-radius: 12px;"
         />
   </td>
     <td width="60%" align="center" style="padding: 20px;">
       <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=zoheb17&theme=dark&hide_border=true"
+        src="https://nirzak-streak-stats.vercel.app/?user=abdullahjawed01&theme=dark&hide_border=true"
         alt="GitHub Streak"
         style="width: 100%; max-width: 500px; border-radius: 14px; margin-bottom: 25px;"
       />
