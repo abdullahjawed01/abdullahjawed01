@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah jawed</h1>
 <h3 align="center">A passionate full stack developer  from India</h3>
 
-
 <p align="left"> <a href="https://twitter.com/abdullahjawed01" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahjawed01?logo=twitter&style=for-the-badge" alt="abdullahjawed01" /></a> </p>
 
 - 🔭 I’m currently working on **project Deyaar Developers**
